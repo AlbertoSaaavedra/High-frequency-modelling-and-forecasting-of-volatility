@@ -2,7 +2,7 @@
 
 ### Contents
 
-This repository contains some elements of the work I carried out during the development of my MSc Thesis at Imperial College London. Specifically, in this repository you can fin:
+This repository contains some elements of the work I carried out during the development of my MSc Thesis at Imperial College London, which was supervised by [Prof. Mikko S. Pakkanen](http://www.mikkopakkanen.fi/). Specifically, in this repository you can find:
 - Sample codes of the programming I did to estimate and forecast volatility using high-frequency data from the Forex Exchenge (FX) market.
 - Sample of the data I used for this research, which is freely available at [TrueFX's webpage](https://www.truefx.com/truefx-historical-downloads/).
 - An executive summary of my MSc Thesis, which highlights the main findings on my research on this topic.
